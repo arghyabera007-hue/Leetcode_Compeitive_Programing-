@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0739-daily-temperatures) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
