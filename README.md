@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
