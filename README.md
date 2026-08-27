@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0013-roman-to-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Queue
 |  |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
