@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1480-running-sum-of-1d-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
