@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
