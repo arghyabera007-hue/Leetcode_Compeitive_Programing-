@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0239-sliding-window-maximum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0066-plus-one) |
 ## Divide and Conquer
 |  |
 | ------- |
