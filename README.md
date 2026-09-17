@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0136-single-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
