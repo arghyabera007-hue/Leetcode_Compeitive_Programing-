@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0239-sliding-window-maximum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -145,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
