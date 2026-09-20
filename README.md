@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0217-contains-duplicate) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Queue
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
