@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0239-sliding-window-maximum) |
+| [0704-binary-search](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0941-valid-mountain-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
