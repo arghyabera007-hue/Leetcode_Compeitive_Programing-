@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0941-valid-mountain-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1480-running-sum-of-1d-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0509-fibonacci-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
