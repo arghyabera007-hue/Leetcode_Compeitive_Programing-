@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0239-sliding-window-maximum) |
+| [0414-third-maximum-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0912-sort-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
