@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0704-binary-search) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -188,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0206-reverse-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
