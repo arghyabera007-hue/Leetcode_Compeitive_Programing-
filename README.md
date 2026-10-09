@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0179-largest-number) |
+| [1143-longest-common-subsequence](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
