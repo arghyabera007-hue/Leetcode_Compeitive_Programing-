@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0322-coin-change) |
+| [0785-is-graph-bipartite](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0785-is-graph-bipartite) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -217,4 +218,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/1143-longest-common-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/arghyabera007-hue/Leetcode_Compeitive_Programing-/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
